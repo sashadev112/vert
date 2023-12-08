@@ -26,3 +26,8 @@ gem "html-proofer", '>=5.0.7'
 gem "eip_validator", ">=0.8.2"
 
 gem "webrick", "~> 1.8" # needed for macOS builds
+gem "html-proofer", '>=5.0.7'
+
+gem "eip_validator", ">=0.8.2"
+
+gem "webrick", "~> 1.8" # needed for macOS builds
